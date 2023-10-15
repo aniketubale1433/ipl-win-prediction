@@ -1,1 +1,2 @@
 # ipl-win-prediction
+The machine learning model for assessing the chances of a cricket team based on the present match circumstances has been constructed successfully. Based on the data provided, the model was able to accurately forecast the winning percentages of both cricket teams in various match situations. The algorithm correctly predicted the victory percentages of both teams. This concept could be used to help individuals plan their careers and to help various cricket organisations improve usage.
