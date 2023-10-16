@@ -5,3 +5,4 @@ The machine learning model for assessing the chances of a cricket team based on 
 Selection of the best team for a cricket match plays a significant role for the team’s victory. The main goal of this paper is to analyse the IPL cricket data and predict the winning percentage of both the teams.the implementation tools used are Anaconda navigator and Jupyter.This knowledge will be used in future to predict the winning teams for the next series IPL matches.Hence using this prediction, the best team can be formed. This project opens scope for future work in the field of cricket and predicting other important things like best team of players, best venue,best city, best fielding decision to win a match
 
 ## Flow Of An Algorithm
+<img width="461" alt="Screenshot 2023-10-16 222948" src="https://github.com/aniketubale1433/ipl-win-prediction/assets/122338093/14f32a73-cd66-449f-8019-16c3752a9add">
